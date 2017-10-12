@@ -1,0 +1,6 @@
+#Robocode robot team
+#Sat Feb 14 06:07:45 GMT 2015
+team.members=GO.PhoenixUltimate*,GO.PhoenixUltimate*,sample.Tracker,sample.Tracker,sample.Interactive_v2
+team.author.name=Godsitme Osarobo
+robocode.version=1.9.2.4
+team.description=Test team
